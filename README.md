@@ -1,7 +1,8 @@
 # MD5SkeletalAnimation
 Skeletal Animation implement with md5 file and Direct3D.骨骼动画核心算法和实现
 目标：真正理解骨骼动画原理和核心算法
-环境：VS2010及以上版本，Direct3D SDK,编译有问题的请联系我：Jeromecen@hotmail.com qq:1021900404
+环境：VS2010及以上版本，Direct3D SDK,编译有问题的请联系我：Jeromecen@hotmail.com qq:1021900404。
+运行成功后可以拖拽鼠标调整相机，按Enter键实现不同动画的切换。
 本项目借鉴了很多网上资料，其中主要是借鉴了http://cspage.net/MD5Loader/ 的OPENGL项目，要OPENGL版本的请到该网址下载资源，非常感谢原作者；还借鉴了http://www.3dgep.com/loading-and-animating-md5-models-with-opengl/ ，和OGRE的动画模块。
 
 实践骨骼动画总结:
